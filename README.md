@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-C#, PHP and JavaScript Developer
+C#, PHP and JavaScript Developer. 
 Trying to enter Android World nowadays.
 
 [![rootcf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootcf)](https://github.com/anuraghazra/github-readme-stats)
