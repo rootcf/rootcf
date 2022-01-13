@@ -3,7 +3,7 @@
 C#, PHP and JavaScript Developer. 
 Trying to enter Android World nowadays.
 
-[![rootcf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootcf)](https://github.com/anuraghazra/github-readme-stats)
+[![rootcf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootcf&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootcf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
