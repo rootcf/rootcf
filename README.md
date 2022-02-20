@@ -1,6 +1,11 @@
-### Hi there 👋
+<h1 align="center">  Hi there 👋</h1>
 
 C#, PHP and JavaScript Developer. 
+
+- 📫 <b>How to reach me:</b><br>
+Twitter : [@rootcf](https://twitter.com/rootcf)<br>
+Discord : rootcf#6512<br>
+<br>
 
 [![rootcf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootcf&theme=dark)](https://github.com/rootcf/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootcf&layout=compact&theme=dark)](https://github.com/rootcf/)
@@ -15,7 +20,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
