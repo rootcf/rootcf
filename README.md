@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://cdn.discordapp.com/attachments/1011639554442285069/1045730750416302100/9FMmrCQC46J-Q4IkG6w8PBvPOFvxngba4X1fu-l1uTkq2PvdpLk_ALPmLy6Tx7hy.gif"></p>
+<p align="center"><img align="center" width="250" height="250" src="https://cdn.discordapp.com/attachments/1011639554442285069/1045730750416302100/9FMmrCQC46J-Q4IkG6w8PBvPOFvxngba4X1fu-l1uTkq2PvdpLk_ALPmLy6Tx7hy.gif"></p>
 <h1 align="center">  Hi there 👋</h1>
 
 C#, PHP and JavaScript Developer. 
