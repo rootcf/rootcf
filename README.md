@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/924773509262110801/944762598321192960/visuals-001021018378-0ckX6M-t1240x260.jpg">
+<img src="https://cdn.discordapp.com/attachments/1011639554442285069/1045730750416302100/9FMmrCQC46J-Q4IkG6w8PBvPOFvxngba4X1fu-l1uTkq2PvdpLk_ALPmLy6Tx7hy.gif">
 <h1 align="center">  Hi there 👋</h1>
 
 C#, PHP and JavaScript Developer. 
