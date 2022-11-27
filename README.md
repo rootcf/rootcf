@@ -5,7 +5,7 @@ C#, PHP and JavaScript Developer.
 
 - 📫 <b>How to reach me:</b><br>
 Twitter : [@rootcf](https://twitter.com/rootcf)<br>
-Discord : rootcf#6512<br>
+Discord : rootcf#0666<br>
 <br>
 
 [![rootcf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootcf&theme=dark)](https://github.com/rootcf/)
